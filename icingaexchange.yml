@@ -12,7 +12,7 @@ releases:
     description: "0.1 Release"
     files: 
       - 
-        name: check_passthrough
+        name: check_passthru
         url: "file:///check_passthru.sh"
         description: "First release"
         checksum: e4d083cf725a58fffad5bd3f8c876b3e
